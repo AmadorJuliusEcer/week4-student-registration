@@ -1,0 +1,13 @@
+[33m705952c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/master
+[33m705952c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: commit (amend): Add student registration logic
+[33mb422260[m HEAD@{2}: rebase (edit): Add student registration logic
+[33m1edb556[m HEAD@{3}: commit (amend): Laravel project with database
+[33mb573d42[m HEAD@{4}: rebase: fast-forward
+[33m6d243ea[m HEAD@{5}: rebase (start): checkout 6d243eaba74b4e40fe6823ef3562b30764978ba8
+[33m251913b[m HEAD@{6}: rebase (abort): returning to refs/heads/master
+[33m251913b[m HEAD@{7}: rebase (abort): returning to refs/heads/master
+[33mc9f4a2f[m HEAD@{8}: commit (amend): Add student registration logic
+[33maacb9eb[m HEAD@{9}: commit (amend): Add student registration logic
+[33m251913b[m HEAD@{10}: reset: moving to HEAD
+[33m251913b[m HEAD@{11}: commit: Add student registration logic
+[33mb573d42[m HEAD@{12}: commit (initial): Laravel project with database
